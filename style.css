@@ -1,0 +1,17 @@
+p{
+    color: purple;
+    font-size: 35px;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+body{
+background-color: white
+}
+
+
+
+header{
+    background-color: blue;
+    height: 100px;
+    font-size: 47px
+}
